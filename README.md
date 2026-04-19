@@ -2,7 +2,7 @@
 
 利用 Github Actions 定时任务实现自动签到，支持多账号同时签到。
 
-[![HIFINI-Auto-Checkin](https://github.com/ewigl/hifini-auto-checkin/actions/workflows/Checkin.yml/badge.svg)](https://github.com/ewigl/hifini-auto-checkin/actions/workflows/Checkin.yml)
+[![HIFINI-Auto-Checkin](https://github.com/AsZer0s/hifini-auto-checkin/actions/workflows/Checkin.yml/badge.svg)](https://github.com/AsZer0s/hifini-auto-checkin/actions/workflows/Checkin.yml)
 
 ### 仓库变量
 
